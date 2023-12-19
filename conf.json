@@ -1,0 +1,19 @@
+{
+  "discord": {
+    "token": "",
+    "prefix": "!"
+  },
+  "ed": {
+    "accounts": {
+      "change-my-name-here": {
+        "username": "",
+        "password": ""
+      },
+      "change-my-name-here": {
+        "username": "",
+        "password": ""
+      }
+    },
+    "defaultAccount": "leah"
+  }
+}

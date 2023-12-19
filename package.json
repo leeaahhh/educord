@@ -1,0 +1,30 @@
+{
+  "name": "edlink",
+  "version": "0.9.3",
+  "description": "A discord bot for école directe",
+  "homepage": "https://github.com/Clemorange22/EDLink",
+  "bugs": {
+    "url": "https://github.com/Clemorange22/EDLink/issues"
+  },
+  "author": {
+    "name": "Clément Boittin",
+    "email": "clement.boittin@protonmail.com"
+  },
+  "license": "GPL-3.0-only",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Clemorange22/EDLink.git"
+  },
+  "dependencies": {
+    "bufferutil": "^4.0.3",
+    "bulma": "^0.9.3",
+    "date-fns": "^2.22.1",
+    "discord.js": "^13.1.0",
+    "ecoledirecte.js": "^0.33.1",
+    "node-cron": "^3.0.0",
+    "node-html-to-image": "^3.1.0",
+    "qs": "^6.10.1",
+    "request": "^2.88.2",
+    "utf-8-validate": "^5.0.5"
+  }
+}
